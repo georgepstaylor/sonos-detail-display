@@ -5,3 +5,5 @@
 2. You need to edit the url for the api endpoint in the *"sonosConnect.js"* file. This can be an literal IP address, or a local hostname (don't forget the port!)
 
 # What does it look like?
+
+!(http://i.imgur.com/46IxP23.jpg)[Big Willie Style]
