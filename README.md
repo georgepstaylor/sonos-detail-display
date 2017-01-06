@@ -6,4 +6,4 @@
 
 # What does it look like?
 
-![Big Willie Style)(http://i.imgur.com/46IxP23.jpg)
+![Big Willie Style](http://i.imgur.com/46IxP23.jpg)
